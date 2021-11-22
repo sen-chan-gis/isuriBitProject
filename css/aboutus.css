@@ -1,0 +1,119 @@
+* { margin: 0; padding: 0; }
+
+.wrapper{
+    height: 1000px;
+    width:1300px;
+    margin: auto;
+}
+
+.header{
+    height: 150px;
+    width:1300px;
+}
+
+.section_1{
+    height: 45px;
+    width:1300px;
+}
+
+.section_1 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F1948A;
+}
+
+.section_1 li {
+  float: left;
+}
+
+.section_1 li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 60.5px;
+  text-decoration: none;
+}
+
+.section_1 li a:hover, .dropdown:hover .dropbtn {
+  background-color: black;
+}
+
+.section_2{
+    height: 800px;
+    width:1300px;
+    background-color: #E8F8F5 ;
+}
+
+}
+
+.section_2 div {
+  padding: 10px;
+}
+
+.section_2 h1 {
+  text-align: center;
+  padding: 20px;
+}
+
+.section_2 h2  {
+  padding: 20px;
+}
+
+.section_2 p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+  padding: 20px;
+}
+
+.section_3{
+    height: 850px;
+    width:1300px;
+    background-color: #F5CBA7;
+}
+
+#center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 260px;
+}
+
+
+.section_4{
+    height: 2180px;
+    width:1290px;
+    background-color: #EB984E ;
+    padding-left: 10px;
+}
+
+div .card {
+  width: 200px;
+  height: 400px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-color: #D7BDE2 ;
+  display: inline-block;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.footer{
+    height: 90px;
+    width:1300px;
+    background-color:#00BFFF ;
+}
+
+
+.footer p{
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    padding-top: 15px;
+    line-height: 1.5;
+}
+
+
+
